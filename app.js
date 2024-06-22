@@ -1,3 +1,5 @@
+//making a server in node js
+
 const http =require('http')
 
 const server=http.createServer((req,res)=>{
